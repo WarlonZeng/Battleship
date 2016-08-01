@@ -1,2 +1,0 @@
-battleshipserver.BattleShipServer
-battleshipserver.UserConn
