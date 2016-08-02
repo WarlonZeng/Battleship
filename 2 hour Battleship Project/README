@@ -1,0 +1,5 @@
+How to run:
+
+Java server - start up with IDE such as NetBeans. GUI starts up, manually place your battleships on instructions.
+
+Java client - connect to server's ipv4 address.
